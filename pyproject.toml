@@ -1,5 +1,5 @@
 [project]
-dynamic = ["version"]
+version = "0.1.0"
 name = "crawlly"
 dependencies = [
     # Include the following dependencies in the final package: httpx, beautiful soup, selenium, asyncio, csv

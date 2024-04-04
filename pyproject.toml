@@ -13,3 +13,8 @@ dependencies = [
     "asyncio",
     "csv",
 ]
+authors = [
+    {name = "David Kristop", email = "krondavid64@gmail.com"}
+]
+readme = "README.md"
+license = {text = "MIT License"}

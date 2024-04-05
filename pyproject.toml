@@ -7,4 +7,5 @@ dependencies = [
     "beautifulsoup4",
     "selenium",
     "asyncio",
+    "delorean",
 ]
